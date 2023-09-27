@@ -280,7 +280,6 @@ header nav {
   padding: 1rem;
   background-color: var(--secondary);
   border-radius: 1rem;
-  box-shadow: 0 0 0.8rem var(--purple-light);
 }
 .skill-naslov {
   background-color: var(--boja);
