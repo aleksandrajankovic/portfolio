@@ -518,9 +518,6 @@ footer {
 }
 .slika1 {
   background-image: url(../img/image.png);
-
-  background-color: rgba(0, 0, 0, 0.3);
-  opacity: 1;
 }
 .slika2 {
   background-image: url(../img/mlekce.png);
@@ -550,25 +547,25 @@ footer {
   background-image: url(../img/fondacija.png);
 }
 .slika11 {
-  background-image: url(../img/fpgradnja.png);
-}
-.slika12 {
   background-image: url(../img/skoj.png);
 }
-.slika13 {
+.slika12 {
   background-image: url(../img/nkpj.png);
 }
-.slika14 {
+.slika13 {
   background-image: url(../img/smasrbija.png);
 }
-.slika15 {
+.slika14 {
   background-image: url(../img/conference.png);
 }
-.slika16 {
+.slika15 {
   background-image: url(../img/chairs.png);
 }
-.slika17 {
+.slika16 {
   background-image: url(../img/bank.png);
+}
+.slika17 {
+  background-image: url(../img/fpgradnja.png);
 }
 .slika18 {
   background-image: url(../img/meridian-app.png);
