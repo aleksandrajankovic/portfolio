@@ -894,3 +894,9 @@ footer {
     margin: 2rem 0 3rem 0;
   }
 }
+@media screen and (max-width: 400px) {
+.image {
+
+    width: 20rem;
+}
+}
