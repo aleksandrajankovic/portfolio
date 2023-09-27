@@ -898,4 +898,8 @@ footer {
 
     width: 20rem;
 }
+  .tags {
+    flex-direction: column;
+    align-items: baseline;
+}
 }
